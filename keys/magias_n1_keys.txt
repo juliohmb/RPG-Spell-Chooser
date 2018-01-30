@@ -1,0 +1,62 @@
+Alarme
+Área Escorregadia
+Armadura Arcana
+Armadura de Agathys
+Ataque Restringente
+Auxílio Divino
+Bênção
+Bom Fruto
+Braços de Hadar
+Chuva de Espinhos
+Comando
+Compreender Idiomas
+Constrição
+Convocar Familiar
+Criar ou Destruir Água
+Curar Ferimentos
+Detectar Bem e Mal
+Detectar Magia
+Detectar Veneno e Doença
+Disco Flutuante de Tenser
+Enfeitiçar Animal
+Enfeitiçar Pessoa
+Escrita Ilusória
+Escudo Arcano
+Escudo da Fé
+Faísca da Bruxa
+Falar com Animais
+Fogo das Fadas
+Forçar Duelo
+Heroísmo
+Identificar
+Imagem Silenciosa
+Infligir Ferimentos
+Leque Cromático
+Maldição
+Mãos Flamejantes
+Marca do Caçador
+Mísseis Mágicos
+Névoa
+Onda Trovejante
+Orbe Cromático
+Palavra de Cura
+Passos Longos
+Praga
+Proteção Contra Bem e Mal
+Punição Ardente
+Punição Furiosa
+Punição Trovejante
+Purificar Comida e Bebida
+Queda Suave
+Raio Doentio
+Raio Guiado
+Recuo Acelerado
+Repreensão Infernal
+Riso Histérico de Tasha
+Salto
+Santuário
+Servo Invisível
+Sono
+Sussurros Perturbadores
+Transformação Momentânea
+Vitalidade Ilusória

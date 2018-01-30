@@ -1,0 +1,151 @@
+
+ -Feiticeiro
+
+-Truques
+Abrigo de Lâminas 
+Ataque Certeiro 
+Borrifada Venenosa 
+Camaradas 
+Consertar 
+Globos de Luz 
+Ilusão Menor 
+Lança de Fogo 
+Luz 
+Mãos Mágicas 
+Mensagem 
+Prestidigitação 
+Raio de Ácido 
+Raio de Gelo 
+Toque Chocante 
+Toque Macabro 
+
+-1º Nível
+Armadura Arcana 
+Compreender Idiomas 
+Detectar Magia 
+Enfeitiçar Pessoa 
+Escudo Arcano 
+Faísca da Bruxa 
+Imagem Silenciosa 
+Leque Cromático 
+Mãos Flamejantes 
+Mísseis Mágicos 
+Névoa 
+Onda Trovejante 
+Orbe Cromático 
+Queda Suave 
+Raio Doentio 
+Recuo Acelerado 
+Salto 
+Sono 
+Transformação Momentânea 
+Vitalidade Ilusória 
+
+-2º Nível
+Abrir 
+Alterar-se 
+Aumentar/Diminuir 
+Borrão 
+Cegueira/Surdez 
+Coroa da Loucura 
+Despedaçar 
+Detectar Pensamentos 
+Escuridão 
+Força Fantasmagórica 
+Habilidade Melhorada 
+Imobilizar Pessoa 
+Invisibilidade 
+Levitação 
+Lufada de Vento 
+Nuvem de Adagas 
+Passo das Brumas 
+Patas de Aranha 
+Raio Ardente 
+Reflexos 
+Sugestão 
+Teia 
+Ver o Invisível 
+Visão no Escuro 
+
+-3º Nível
+Bola de Fogo 
+Caminhar na Água 
+Clarividência 
+Contramágica 
+Dissipar Magia 
+Forma Gasosa 
+Idiomas 
+Imagem Maior 
+Lentidão 
+Luz do Dia 
+Medo 
+Nevasca 
+Névoa Fétida 
+Padrão Hipnótico 
+Piscar 
+Proteção contra Energia 
+Relâmpago 
+Respirar na Água 
+Velocidade 
+Voo 
+
+-4º Nível
+Banimento 
+Confusão 
+Dominar Animais 
+Invisibilidade Maior 
+Metamorfose 
+Muralha de fogo 
+Pele Rochosa 
+Porta Dimensional 
+Secar 
+Tempestade Glacial 
+
+-5º Nível
+Animar Objetos 
+Círculo de Teletransporte
+Cone Glacial 
+Criação 
+Dominar Pessoa 
+Imobilizar Monstro 
+Muralha de Pedra 
+Névoa Mortal 
+Praga de Insetos 
+Similaridade 
+Telecinésia 
+
+-6º Nível
+Ataque Visual 
+Círculo da Morte 
+Corrente de Relâmpagos 
+Desintegrar 
+Globo de Invulnerabilidade
+Mover Terra 
+Portão Arcano 
+Raio de Sol 
+Sugestão em Massa 
+Visão da Verdade 
+
+-7º Nível
+Bola de Fogo Controlável
+Dedo da Morte 
+Forma Etérea 
+Inverter a Gravidade 
+Rajada Prismática 
+Teletransporte 
+Tempestade de Fogo 
+Viagem Planar 
+
+-8º Nível
+Dominar Monstro 
+Explosão Solar 
+Nuvem Incendiária 
+Palavra de Poder Atordoar
+Terremoto 
+
+-9º Nível
+Chuva de Meteoros 
+Desejo 
+Palavra de Poder Matar 
+Parar o Tempo 
+Portal 

@@ -1,0 +1,56 @@
+ -Ranger
+-1º Nível
+Alarme 
+Ataque Restringente 
+Bom Fruto 
+Chuva de Espinhos 
+Curar Ferimentos 
+Detectar Magia 
+Detectar Veneno e Doença 
+Enfeitiçar Animal 
+Falar com Animais 
+Marca do Caçador 
+Névoa 
+Passos Longos 
+Salto 
+
+-2º Nível
+Bloqueio de Flechas 
+Crescer Espinhos 
+Encontrar Armadilhas 
+Localizar Animais ou Plantas 
+Localizar Objeto 
+Mensageiro Animal 
+Passo sem Pegadas 
+Pele de Árvore 
+Proteção Contra Venenos 
+Restauração Menor 
+Sentidos da Besta 
+Silêncio 
+Visão no Escuro 
+
+-3º Nível
+Ampliar Plantas 
+Caminhar na Água 
+Conjurar Artilharia 
+Dificultar Detecção 
+Falar com Plantas 
+Flecha Elétrica 
+Invocar Animais 
+Luz do Dia 
+Muralha de Vento 
+Proteção contra Energia 
+Respirar na Água 
+
+-4º Nível
+Invocar Seres da Floresta
+Localizar Criatura 
+Movimentação Livre 
+Pele Rochosa 
+Vinhas Sufocantes 
+
+-5º Nível
+Aljava Veloz 
+Caminhar por Árvores 
+Comunhão com a Natureza
+Conjurar Rajada 

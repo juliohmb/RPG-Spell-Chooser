@@ -1,0 +1,55 @@
+ -Paladino
+-1º Nível
+Auxílio Divino 
+Bênção 
+Comando 
+Curar Ferimentos 
+Detectar Bem e Mal 
+Detectar Magia 
+Detectar Veneno e Doença 
+Escudo da Fé 
+Forçar Duelo 
+Heroísmo 
+Proteção contra Bem e Mal 
+Punição Ardente 
+Punição Furiosa 
+Punição Trovejante 
+Purificar Comida e Bebida 
+
+-2º Nível
+Ajuda 
+Arma Mágica 
+Convocar Montaria 
+Localizar Objeto 
+Proteção Contra Venenos 
+Punição Sinalizadora 
+Restauração Menor 
+Zona da Verdade 
+
+-3º Nível
+Arma Elemental 
+Aura de Vitalidade 
+Círculo Mágico 
+Criar Água e Comida 
+Dissipar Magia 
+Luz do Dia 
+Manto do Cruzado 
+Punição Cegante 
+Remover Maldição 
+Reviver 
+
+-4º Nível
+Aura de Pureza 
+Aura de Vida 
+Banimento 
+Localizar Criatura 
+Proteção Contra a Morte 
+Punição Arrebatadora
+
+-5º Nível
+Círculo de Poder 
+Dissipar Bem e Mal 
+Missão 
+Punição Banidora 
+Punição Destrutiva 
+Reviver Mortos 

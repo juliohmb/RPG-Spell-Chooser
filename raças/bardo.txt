@@ -1,0 +1,138 @@
+ -Bardo
+-Truques
+Abrigo de Lâminas 
+Ataque Certeiro 
+Camaradas 
+Consertar 
+Globos de Luz 
+Ilusão Menor 
+Luz 
+Mãos Mágicas 
+Mensagem 
+Prestidigitação 
+Zombaria Malévola
+
+-1º Nível
+Compreender Idiomas 
+Curar Ferimentos 
+Detectar Magia 
+Enfeitiçar Animal 
+Enfeitiçar Pessoa 
+Escrita Ilusória 
+Falar com Animais 
+Fogo das Fadas 
+Heroísmo 
+Identificar 
+Imagem Silenciosa 
+Maldição 
+Onda Trovejante 
+Palavra de Cura 
+Passos Longos 
+Queda Suave 
+Riso histérico de Tasha 
+Servo Invisível 
+Sono 
+Sussurros Perturbadores 
+Transformação Momentânea 
+
+-2º Nível
+Abrir 
+Acalmar Emoções 
+Boca Mágica 
+Cativar 
+Cegueira/Surdez 
+Coroa da Loucura 
+Despedaçar 
+Detectar Pensamentos 
+Esquentar Metais 
+Força Fantasmagórica 
+Habilidade Melhorada 
+Imobilizar Pessoa 
+Invisibilidade 
+Localizar Animais ou Plantas 
+Localizar Objeto 
+Mensageiro Animal 
+Nuvem de Adagas 
+Restauração Menor 
+Silêncio 
+Sugestão 
+Ver o Invisível 
+Zona da Verdade 
+
+-3º Nível
+Ampliar Plantas 
+Clarividência 
+Dificultar Detecção 
+Dissipar Magia 
+Enviar Mensagem 
+Falar com os Mortos 
+Falar com Plantas 
+Fingir-se de Morto 
+Idiomas 
+Imagem Maior 
+Medo 
+Névoa Fétida 
+Padrão Hipnótico 
+Pequeno Refúgio de Leomund 
+Rogar Maldição 
+Símbolo de Proteção 
+
+-4º Nível
+Compulsão 
+Confusão 
+Invisibilidade Maior 
+Localizar Criatura 
+Metamorfose 
+Movimentação Livre 
+Porta Dimensional 
+Terreno Ilusório 
+
+-5º Nível
+Âncora Planar 
+Animar Objetos 
+Círculo de Teletransporte 
+Curar Ferimentos em Massa 
+Despertar 
+Despistar 
+Dominar Pessoa 
+Imobilizar Monstro 
+Modificar Memória 
+Restauração Maior 
+Reviver Mortos 
+Similaridade 
+Sonho 
+Vidência 
+
+-6º Nível
+Ataque Visual 
+Dança Irresistível de Otto 
+Encontrar o Caminho 
+Ilusão Programada 
+Proteger Fortalezas 
+Sugestão em Massa 
+Visão da Verdade 
+
+-7º Nível
+Cubo de Energia 
+Espada de Mordenkainen 
+Forma Etérea 
+Mansão Magnífica de Mordenkainen 
+Miragem Arcana 
+Projetar Imagem 
+Regeneração 
+Ressurreição 
+Símbolo 
+Teletransporte 
+
+-8º Nível
+Dominar Monstro 
+Eloquência 
+Limpar a Mente 
+Mente Débil 
+Palavra de Poder Atordoar 
+
+-9º Nível
+Metamorfose Verdadeira 
+Palavra de Poder Curar 
+Palavra de Poder Matar 
+Previsão 

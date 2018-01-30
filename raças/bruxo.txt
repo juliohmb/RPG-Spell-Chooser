@@ -1,0 +1,94 @@
+ -Bruxo
+-Truques
+Abrigo de Lâminas 
+Ataque Certeiro 
+Borrifada Venenosa 
+Camaradas 
+Ilusão Menor 
+Mãos Mágicas 
+Prestidigitação 
+Rajada Mística 
+Toque Macabro 
+
+-1º Nível
+Armadura de Agathys 
+Braços de Hadar 
+Compreender Idiomas 
+Enfeitiçar Pessoa 
+Escrita Ilusória 
+Faísca da Bruxa 
+Praga 
+Proteção contra Bem e Mal 
+Recuo Acelerado 
+Repreensão Infernal 
+Servo Invisível 
+
+-2º Nível
+Cativar 
+Coroa da Loucura 
+Despedaçar 
+Escuridão 
+Imobilizar Pessoa 
+Invisibilidade 
+Nuvem de Adagas 
+Passo das Brumas 
+Patas de Aranha 
+Raio do Enfraquecimento 
+Reflexos 
+Sugestão 
+
+-3º Nível
+Círculo Mágico 
+Contramágica 
+Dissipar Magia 
+Fome de Hadar 
+Forma Gasosa 
+Idiomas 
+Imagem Maior 
+Medo 
+Padrão Hipnótico 
+Remover Maldição 
+Toque Vampírico 
+Voo 
+
+-4º Nível
+Banimento 
+Porta Dimensional 
+Secar 
+Terreno Ilusório 
+
+-5º Nível
+Contato Extraplanar 
+Imobilizar Monstro 
+Sonho 
+Vidência 
+
+-6º Nível
+Ataque Visual 
+Carne para Pedra 
+Círculo da Morte 
+Criar Morto-Vivo 
+Invocar Feérico 
+Portão Arcano 
+Sugestão em Massa 
+Visão da Verdade 
+
+-7º Nível
+Cubo de Energia 
+Dedo da Morte 
+Forma Etérea 
+Viagem Planar 
+
+-8º Nível
+Dominar Monstro 
+Eloquência 
+Mente Débil 
+Palavra de Poder Atordoar
+Semiplano 
+
+-9º Nível
+Aprisionamento 
+Metamorfose Verdadeira 
+Palavra de Poder Matar 
+Previsão 
+Projeção Astral

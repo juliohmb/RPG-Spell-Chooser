@@ -1,0 +1,130 @@
+ -Druida
+-Truques
+Arma Druídica 
+Arte Druida 
+Borrifada Venenosa 
+Chicote de Espinhos 
+Consertar 
+Orientação 
+Produzir Chama 
+Resistência 
+
+-1º Nível
+Bom Fruto 
+Constrição 
+Criar ou Destruir Água 
+Curar Ferimentos 
+Detectar Magia 
+Detectar Veneno e Doença 
+Enfeitiçar Animal 
+Enfeitiçar Pessoa 
+Falar com Animais 
+Fogo das Fadas 
+Névoa 
+Onda Trovejante 
+Palavra de Cura 
+Passos Longos 
+Purificar Comida e Bebida 
+Salto 
+
+-2º Nível
+Crescer Espinhos 
+Encontrar Armadilhas 
+Esfera Flamejante 
+Esquentar Metais 
+Habilidade Melhorada 
+Imobilizar Pessoa 
+Lâmina Flamejante 
+Localizar Animais ou Plantas 
+Localizar Objeto 
+Lufada de Vento 
+Mensageiro Animal 
+Passo sem Pegadas 
+Pele de Árvore 
+Proteção Contra Venenos 
+Raio Lunar 
+Restauração Menor 
+Sentidos da Besta 
+Visão no Escuro 
+
+-3º Nível
+Ampliar Plantas 
+Caminhar na Água 
+Convocar Relâmpagos 
+Dissipar Magia 
+Falar com Plantas 
+Fingir-se de Morto 
+Invocar Animais 
+Luz do Dia 
+Mesclar-se às Rochas 
+Muralha de Vento 
+Nevasca 
+Proteção contra Energia 
+Respirar na Água 
+
+-4º Nível
+Confusão 
+Controlar Água 
+Dominar Animais 
+Inseto Gigante 
+Invocar Elementais Menores 
+Invocar Seres da Floresta
+Localizar Criatura 
+Metamorfose 
+Moldar Rochas 
+Movimentação Livre 
+Muralha de fogo 
+Pele Rochosa 
+Secar 
+Tempestade Glacial 
+Terreno Ilusório 
+Vinhas Sufocantes 
+
+-5º Nível
+Âncora Planar 
+Barreira Antivida 
+Caminhar por Árvores 
+Comunhão com a Natureza
+Curar Ferimentos em Massa
+Despertar 
+Epidemia 
+Invocar Elemental 
+Missão 
+Muralha de Pedra 
+Praga de Insetos 
+Reencarnação 
+Restauração Maior 
+Vidência 
+
+-6º Nível
+Banquete de Heróis 
+Caminhar no Vento 
+Cura 
+Encontrar o Caminho 
+Invocar Feérico 
+Mover Terra 
+Muralha de Espinhos 
+Raio de Sol 
+Teletransporte por Árvores
+
+-7º Nível
+Inverter a Gravidade 
+Miragem Arcana 
+Regeneração 
+Tempestade de Fogo 
+Viagem Planar 
+
+-8º Nível
+Antipatia/Simpatia 
+Controlar o Clima 
+Explosão Solar 
+Forma Animal 
+Mente Débil 
+Terremoto 
+Tsunami 
+
+-9º Nível
+Alterar Forma 
+Previsão 
+Ressurreição Verdadeira 
+Tempestade da Vingança
